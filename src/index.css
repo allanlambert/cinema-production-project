@@ -414,13 +414,24 @@ FOOTER
 }
 
 .footer__terms {
-  color: rgb(159, 84, 209);
-  text-decoration: underline;
-  cursor: pointer;
-  margin-bottom: 24px;
+  margin-bottom: 32px;
 }
 
-/* delete after */
+.footer__term {
+  color: rgb(159, 84, 209);
+  text-decoration: underline;
+}
+
+.footer-line {
+  color: rgb(170, 170, 170);
+  margin: 0 8px;
+}
+
+/* 
+
+MOVIE ITEM
+
+*/
 
 .movie-list {
   align-items: center;
